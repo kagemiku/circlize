@@ -5,7 +5,7 @@
 #include <random>
 #include <opencv2/core/core.hpp>
 
-namespace kg {8
+namespace kg {
 
 class Circlize {
 private:
